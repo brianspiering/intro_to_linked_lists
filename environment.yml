@@ -1,0 +1,12 @@
+name: ll
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - jupyter
+  - notebook
+  - metakernel
+  - rise
+
+
